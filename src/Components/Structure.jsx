@@ -6,7 +6,7 @@ import WhyUs from './WhyUs';
 import Clint from './Clint';
 import AboutUs from './AboutUs';
 import Testimonials from './Testimonials';
-import Faq from './FAQ';
+import Faq from './Faq';
 import Footer from "./Footer";
 
 
