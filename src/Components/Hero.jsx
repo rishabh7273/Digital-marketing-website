@@ -18,7 +18,7 @@ export default function Hero() {
         <>
 
             <section  id="home" 
-                className="relative w-full min-h-[100vh] text-white flex items-center justify-center bg-cover bg-center bg-no-repeat" >
+                className="relative w-full  max-w-screen overflow-x-hidden min-h-[100vh] text-white flex items-center justify-center bg-cover bg-center bg-no-repeat" >
                 {/* 🔹 Background Video */}
                 <video
                     className="absolute inset-0 w-full h-full object-cover"

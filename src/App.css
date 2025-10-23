@@ -17,3 +17,8 @@
   flex-shrink: 0; /* prevents cards from shrinking */
 }
 
+html, body, #root { @apply overflow-x-hidden; }
+* { box-sizing: border-box; }
+ picture, iframe, svg { max-width: 100%; height: auto; display: block; }
+.max-full { max-width: 100% !important; }
+
